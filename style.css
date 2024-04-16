@@ -82,7 +82,7 @@ body {
        color: blue;
    }
    .texto-preto {
-    color: black;
+    color: rgb(0, 0, 0);
    }
    .texto-laranja {
     color: orange;
@@ -91,9 +91,9 @@ body {
     color: darkblue;
    }
    .texto-cinza {
-    color: gray;
+    color: rgb(255, 0 , 0);
    }
 
    #paragrafo {
-    color: var(--red);
+    color: #f3e5d7;
    }
