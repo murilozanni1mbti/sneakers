@@ -77,3 +77,23 @@ body {
    p{
     color: oklch(lightness chroma hue);
    }
+
+   .texto-azul{
+       color: blue;
+   }
+   .texto-preto {
+    color: black;
+   }
+   .texto-laranja {
+    color: orange;
+   }
+   .texto-azul-escuro {
+    color: darkblue;
+   }
+   .texto-cinza {
+    color: gray;
+   }
+
+   #paragrafo {
+    color: var(--red);
+   }
